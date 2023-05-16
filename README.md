@@ -1,4 +1,12 @@
-# ChatRoomWithGRPC
-ChatRoom is a simple app to learn about gRPC. Introduction to 4 types of communication: Unary, Client-Streaming, Server-Streaming, Bi-dectional Streaming. Application built in C# .NET with groom admin(server-streaming) to receive notifications from users and news bots, fullroom client(bi-dectional streaming) for users to create rooms and chat, news bot(client-streaming) to automatically send new information and groom server.
-Demo: https://www.youtube.com/watch?v=F217Vv1abxY
+# Chat Room
+# About Chat Room
+ - ChatRoom is a simple app built in C# .NET and JavaScipt to learn about gRPC. 
+ - Introduction to 4 types of communication: Unary, Client-Streaming, Server-Streaming, Bi-dectional Streaming.
+ - Groom admin: receive notifications from users and news bots.
+ - Fullroom client: for users to create rooms and chat with others.
+ - News bot: automatically send new information to groom server.
+# Achitech:
+  ![image](https://github.com/phatduong0812/ChatRoomWithGRPC/assets/97118043/f88c9e49-72c0-4b54-8cb6-b8d073e1547c)
+# Demo: 
+ - https://www.youtube.com/watch?v=F217Vv1abxY
 
