@@ -1,6 +1,6 @@
 # Chat Room
 # About Chat Room
- - ChatRoom is a simple app built in C# .NET and JavaScipt to learn about gRPC. 
+ - ChatRoom is a simple app built in C# .NET and JavaScript to learn about gRPC. 
  - Introduction to 4 types of communication: Unary, Client-Streaming, Server-Streaming, Bi-dectional Streaming.
  - Admin (groomadmin): receive notifications from users and news bots.
  - User (fullroomclient): for users to create rooms and chat with others.
