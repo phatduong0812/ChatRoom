@@ -6,7 +6,7 @@
  - User (fullroomclient): for users to create rooms and chat with others.
  - News bot(newsbot): automatically send new information to groom server.
  - Server (groomserver)
-# Achitech:
+# Achitecture:
   ![image](https://github.com/phatduong0812/ChatRoomWithGRPC/assets/97118043/f88c9e49-72c0-4b54-8cb6-b8d073e1547c)
 # Demo: 
  - https://youtu.be/LkUSILC84yE
